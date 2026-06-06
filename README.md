@@ -23,6 +23,14 @@ SecondaryMonitorDialog adds dialog text to the secondary monitor view.
 
 You can also interact with the dialog text directly in the secondary monitor. This makes it possible to follow one dialog on the main monitor and another dialog on the secondary monitor at the same time, without constantly switching between camera views.
 
+## Compatibility
+
+These mods have only been tested on Windows.
+
+If you are using Windows, you can follow the normal installation steps below.
+
+For macOS or Linux, you may need to download the correct BepInEx version for your operating system first. After installing BepInEx, copy the mod `.dll` files into the `BepInEx/plugins` folder manually.
+
 ## Installation
 
 1. Download the `.zip` file for the mod you want.

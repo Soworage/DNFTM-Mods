@@ -4,7 +4,8 @@ A small collection of BepInEx mods for **Do Not Feed the Monkeys**.
 
 ## Downloads
 
-Download the mod you want from the **Releases** page.  
+Download the latest version from the [Releases page](https://github.com/Soworage/DNFTM-Mods/releases).
+
 Each mod is provided as a separate `.zip` file, so you can install only the ones you want.
 
 ## Available Mods
